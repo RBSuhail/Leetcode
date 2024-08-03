@@ -1,6 +1,8 @@
 class Solution {
 public:
     int findMaxLength(vector<int>& nums) {
+        //we have take -1 for zero mano ham kahin pahunch gaye
+        //wahan wahin sum hai means beech mein equal 0 and 1,s hain
         unordered_map<int, int> prefixSumIndex;
         int maxLength = 0;
         int prefixSum = 0;
