@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/RBSuhail/Leetcode/tree/master/0010-regular-expression-matching) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RBSuhail/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/RBSuhail/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RBSuhail/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RBSuhail/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,8 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RBSuhail/Leetcode/tree/master/0015-3sum) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RBSuhail/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RBSuhail/Leetcode/tree/master/0011-container-with-most-water) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RBSuhail/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RBSuhail/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
