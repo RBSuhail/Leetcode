@@ -8,7 +8,7 @@ public:
         int i = 0, j = 0;
 
         for (; j < s.size(); j++) {
-            if (mp.find(s[j]) != mp.end()) {
+            if (mp.count(s[j])) {
                 if (mp[s[j]] > 0) {
                     required--;  // Decrease the required count only when a needed character is found
                 }
@@ -21,7 +21,7 @@ public:
                     startIdx = i;
                 }
 
-                if (mp.find(s[i]) != mp.end()) {
+                if (mp.count(s[i])) {
                     mp[s[i]]++;  // Increase the frequency as the character is about to be removed from the window
                     if (mp[s[i]] > 0) {
                         required++;  // Increase the required count if a needed character is removed
