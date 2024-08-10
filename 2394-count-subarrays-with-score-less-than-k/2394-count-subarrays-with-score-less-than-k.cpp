@@ -8,11 +8,10 @@ public:
             sum += nums[j];
             count++;
 
-            // Adjust the window if the score is greater than or equal to k
-            while (sum * count >= k && i <= j) {
+        
+            for (;sum * count >= k && i <= j;i++) {
                 sum -= nums[i];
                 count--;
-                i++;
             }
 
             // Add the number of valid subarrays ending at j
