@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/RBSuhail/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RBSuhail/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RBSuhail/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RBSuhail/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Design
 |  |
@@ -94,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RBSuhail/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/RBSuhail/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RBSuhail/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RBSuhail/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
