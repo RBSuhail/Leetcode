@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/RBSuhail/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/RBSuhail/Leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/RBSuhail/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/RBSuhail/Leetcode/tree/master/0221-maximal-square) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/RBSuhail/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RBSuhail/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RBSuhail/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0221-maximal-square](https://github.com/RBSuhail/Leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/RBSuhail/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/RBSuhail/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RBSuhail/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/RBSuhail/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/RBSuhail/Leetcode/tree/master/0221-maximal-square) |
 ## Queue
 |  |
 | ------- |
