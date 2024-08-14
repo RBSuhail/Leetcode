@@ -23,8 +23,8 @@ public:
                     max_sq[i][j] = 0;
                 else
                     max_sq[i][j] =
-                        1 + min(min(max_sq[i - 1][j], max_sq[i - 1][j - 1]),
-                                max_sq[i][j - 1]);
+                        1 + min(min(max_sq[i - 1][j], max_sq[i ][j - 1]),
+                                max_sq[i-1][j - 1]);
                 max_side_length = max(max_side_length, max_sq[i][j]);
             }
         }
