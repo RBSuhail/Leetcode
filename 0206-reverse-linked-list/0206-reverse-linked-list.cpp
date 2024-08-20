@@ -22,8 +22,7 @@ public:
         // }return prev;
         if(head==NULL||head->next==NULL)return head;
         ListNode* newhead=reverseList(head->next);
-        ListNode* front=head->next;
-        front->next=head,front->next->next=NULL;
+        head->next->next=head,head->next=NULL;
         return newhead;
     }
 };
