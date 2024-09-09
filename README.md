@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RBSuhail/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/RBSuhail/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0076-minimum-window-substring](https://github.com/RBSuhail/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RBSuhail/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/RBSuhail/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/RBSuhail/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RBSuhail/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
 | [0525-contiguous-array](https://github.com/RBSuhail/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RBSuhail/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -147,23 +149,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RBSuhail/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RBSuhail/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RBSuhail/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RBSuhail/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RBSuhail/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
 ## Linked List
 |  |
 | ------- |
