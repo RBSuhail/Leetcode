@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RBSuhail/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/RBSuhail/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RBSuhail/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RBSuhail/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Design
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RBSuhail/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/RBSuhail/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/RBSuhail/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/RBSuhail/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/RBSuhail/Leetcode/tree/master/0221-maximal-square) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/RBSuhail/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/RBSuhail/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RBSuhail/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Graph
 |  |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RBSuhail/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/RBSuhail/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
