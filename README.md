@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/RBSuhail/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/RBSuhail/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/RBSuhail/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RBSuhail/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RBSuhail/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/RBSuhail/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/RBSuhail/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RBSuhail/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RBSuhail/Leetcode/tree/master/0062-unique-paths) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/RBSuhail/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RBSuhail/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/RBSuhail/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/RBSuhail/Leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/RBSuhail/Leetcode/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/RBSuhail/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
