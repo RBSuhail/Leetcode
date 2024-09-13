@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RBSuhail/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RBSuhail/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1428-jump-game-iii](https://github.com/RBSuhail/Leetcode/tree/master/1428-jump-game-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RBSuhail/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/RBSuhail/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -159,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
+| [1428-jump-game-iii](https://github.com/RBSuhail/Leetcode/tree/master/1428-jump-game-iii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RBSuhail/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
+| [1428-jump-game-iii](https://github.com/RBSuhail/Leetcode/tree/master/1428-jump-game-iii) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/RBSuhail/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RBSuhail/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Graph
