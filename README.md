@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RBSuhail/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1428-jump-game-iii](https://github.com/RBSuhail/Leetcode/tree/master/1428-jump-game-iii) |
+| [1582-design-browser-history](https://github.com/RBSuhail/Leetcode/tree/master/1582-design-browser-history) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RBSuhail/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/RBSuhail/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RBSuhail/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1582-design-browser-history](https://github.com/RBSuhail/Leetcode/tree/master/1582-design-browser-history) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/RBSuhail/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RBSuhail/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RBSuhail/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1582-design-browser-history](https://github.com/RBSuhail/Leetcode/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/RBSuhail/Leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/RBSuhail/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1582-design-browser-history](https://github.com/RBSuhail/Leetcode/tree/master/1582-design-browser-history) |
 ## Simulation
 |  |
 | ------- |
@@ -208,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/RBSuhail/Leetcode/tree/master/0310-minimum-height-trees) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/RBSuhail/Leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/RBSuhail/Leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
