@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/RBSuhail/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0076-minimum-window-substring](https://github.com/RBSuhail/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RBSuhail/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RBSuhail/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/RBSuhail/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/RBSuhail/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RBSuhail/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RBSuhail/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RBSuhail/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/RBSuhail/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RBSuhail/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RBSuhail/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RBSuhail/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RBSuhail/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RBSuhail/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RBSuhail/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RBSuhail/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Math
 |  |
 | ------- |
