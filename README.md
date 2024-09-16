@@ -159,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/RBSuhail/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
 | [1428-jump-game-iii](https://github.com/RBSuhail/Leetcode/tree/master/1428-jump-game-iii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RBSuhail/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/RBSuhail/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
 | [1428-jump-game-iii](https://github.com/RBSuhail/Leetcode/tree/master/1428-jump-game-iii) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/RBSuhail/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/RBSuhail/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
 | [3386-find-edges-in-shortest-paths](https://github.com/RBSuhail/Leetcode/tree/master/3386-find-edges-in-shortest-paths) |
 ## Shortest Path
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RBSuhail/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/RBSuhail/Leetcode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
