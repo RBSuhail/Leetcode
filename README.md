@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RBSuhail/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/RBSuhail/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/RBSuhail/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RBSuhail/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RBSuhail/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/RBSuhail/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/RBSuhail/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/RBSuhail/Leetcode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/RBSuhail/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/RBSuhail/Leetcode/tree/master/0221-maximal-square) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RBSuhail/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RBSuhail/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RBSuhail/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
