@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/RBSuhail/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/RBSuhail/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/RBSuhail/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0179-largest-number](https://github.com/RBSuhail/Leetcode/tree/master/0179-largest-number) |
 | [0399-evaluate-division](https://github.com/RBSuhail/Leetcode/tree/master/0399-evaluate-division) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RBSuhail/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RBSuhail/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RBSuhail/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/RBSuhail/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RBSuhail/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/RBSuhail/Leetcode/tree/master/0179-largest-number) |
 | [0221-maximal-square](https://github.com/RBSuhail/Leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/RBSuhail/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/RBSuhail/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -100,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RBSuhail/Leetcode/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/RBSuhail/Leetcode/tree/master/0179-largest-number) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RBSuhail/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RBSuhail/Leetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/RBSuhail/Leetcode/tree/master/0179-largest-number) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RBSuhail/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
