@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/RBSuhail/Leetcode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RBSuhail/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RBSuhail/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3291-find-if-array-can-be-sorted](https://github.com/RBSuhail/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Design
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RBSuhail/Leetcode/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/RBSuhail/Leetcode/tree/master/0179-largest-number) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RBSuhail/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/RBSuhail/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RBSuhail/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RBSuhail/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [3291-find-if-array-can-be-sorted](https://github.com/RBSuhail/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
 | ------- |
